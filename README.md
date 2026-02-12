@@ -2,3 +2,5 @@
 
 - Estado del proyecto: Primeros pasos
 - Se raliza una edición para ver el funcionamiento en ```"Github"```
+
+- Se realiza una modificación el  Readme 
